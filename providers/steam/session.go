@@ -10,7 +10,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/markbates/goth"
+	"github.com/iosphere/goth"
 )
 
 // Session stores data during the auth process with Steam.
